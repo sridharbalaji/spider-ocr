@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<Button
+android:id="@+id/widget33"
+android:layout_width="207px"
+android:layout_height="wrap_content"
+android:text="English To Tamil"
+android:layout_x="54px"
+android:layout_y="31px"
+>
+</Button>
+<Button
+android:id="@+id/widget34"
+android:layout_width="205px"
+android:layout_height="wrap_content"
+android:text="Tamil To English"
+android:layout_x="54px"
+android:layout_y="117px"
+>
+</Button>
+</AbsoluteLayout>
